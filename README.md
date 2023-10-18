@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-This is a test repository for module 2 of Henry's Prepcourse
+This is a test of how you make and clone a repository from Git Hub to my pc.
